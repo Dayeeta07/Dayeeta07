@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Dayeeta Chakravorty (@Dayeeta07)
 - 👀 I’m interested in Cybersecurity, UI/UX and App Development. 
 - 🌱 I’m currently learning Computer science engineering.
-- 💞️ I’m looking to collaborate on Cyber security
+- 💞️ I’m looking to collaborate in Cyber security
 - 📫 How to reach me: chakravortydayeeta@gmail.com
 
 <!---
